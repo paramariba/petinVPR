@@ -62,3 +62,8 @@ vless://5b34c20e-a7b4-489e-9f55-fae8e26aae27@89.125.37.128:7443?type=tcp&securit
 vless://5b34c20e-a7b4-489e-9f55-fae8e26aae27@152.53.91.94:7443?encryption=none&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&spx=%2F&flow=xtls-rprx-vision&type=tcp#🇺🇸 США
 vless://5b34c20e-a7b4-489e-9f55-fae8e26aae27@64.49.15.82:7443?encryption=none&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&spx=%2F&flow=xtls-rprx-vision&type=tcp#🇹🇷 Турция
 vless://58dea6d5-980d-4eb8-ae33-240fb97aeb8e@fl-1-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-1-direct.djarbnet.ru&security=tls#🇫🇮 Финляндия
+vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@de.tlsov.pro:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision&type=tcp#🇩🇪 Германия
+vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@fi.tlsov.pro:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision&type=tcp#🇫🇮 Финляндия
+vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@pl.tlsov.pro:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision&type=tcp#🇵🇱 Польша
+vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@lat.tlsov.pro:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision&type=tcp#🇱🇻 Латвия
+vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@nl.tlsov.pro:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000&flow=xtls-rprx-vision&type=tcp#🇳🇱 Нидерланды

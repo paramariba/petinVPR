@@ -1,3 +1,5 @@
+# profile-title: PetinVPR
+
 vless://837fad56-34f5-49eb-a040-349796bf8ec8@109.107.168.23.vhub.pro:443?type=grpc&security=tls&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&sni=109.107.168.23.vhub.pro#🇬🇧 Великобритания - Лондон [PetinVPR]
 vless://837fad56-34f5-49eb-a040-349796bf8ec8@195.3.221.239.vhub.pro:443?type=grpc&security=tls&serviceName=%2Fsequre%2Fgrpc%2F&fp=safari&alpn=h2&sni=195.3.221.239.vhub.pro#🇵🇱 Польша - Варшава [PetinVPR]
 vless://837fad56-34f5-49eb-a040-349796bf8ec8@2.27.30.1.vhub.pro:443?type=grpc&security=tls&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&sni=2.27.30.1.vhub.pro#🇫🇮 Финляндия - Хельсинки - 1 [PetinVPR]

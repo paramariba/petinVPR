@@ -1,0 +1,3 @@
+# profile-title: True VPN
+
+vless://TrueVPN_51960353@72.56.125.65:443?type=tcp&security=reality&fp=chrome&pbk=cVFgvU0H_8t5uz2d9y5EkIYDH60NcYO2HKJTeR_urFo&sni=apple.com&sid=ffffffffff&spx=%2F#TrueVPN_51960353-TW

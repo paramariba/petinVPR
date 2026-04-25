@@ -1,0 +1,4 @@
+# profile-title: FireFly VPN
+
+vless://7c08ac9e-5d51-4fec-a258-d14e3fe42a06@109.107.181.20:443?type=grpc&encryption=none&serviceName=&security=reality&pbk=Js0Z9dltssob84HjQ73YjR7oBwc3-OJ81N7FmOFu3z0&fp=chrome&sni=web.max.ru&sid=db94b1bfe0eb&spx=%2F#Vless_8349807059_3590
+vless://7dbefc37-b6f3-4f6c-9fec-c44697f6516d@109.107.181.20:443?type=grpc&encryption=none&serviceName=&security=reality&pbk=Js0Z9dltssob84HjQ73YjR7oBwc3-OJ81N7FmOFu3z0&fp=chrome&sni=web.max.ru&sid=db94b1bfe0eb&spx=%2F#Vless_8349807059_3591

@@ -1,0 +1,4 @@
+# profile-title: lx-vpn
+
+vless://8893a5a1-05ae-4e25-a228-74b7755a8529@144.31.30.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=dz9gTJMjKuONQbiqFPg7up3w8QfPd38BG1Zf4YmeT1k&sid=abcd1234&type=tcp#LX-VPN-NL
+vless://9a2f2d64-d89b-4032-b405-09c741f5ddde@193.58.122.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Iq3fqiS2KDAZOpdsdhCx1ILaltR9HTlnZZOJroNA1kg&sid=abcd1234&type=tcp#LX-VPN-DE

@@ -3,3 +3,6 @@
 vless://1dec3ade-d1bf-473f-a270-53d7d2753250@107.189.7.176:443?type=ws&encryption=none&security=tls&host=107.189.7.176&path=/ws&sni=107.189.7.176&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20CH%20%7C%20VLESS
 vless://c9bf8c1f-a0f3-420c-a438-aad38af66eb1@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20BG%20%7C%20VLESS
 vless://b2697829-39c9-41d5-84dd-16548e87ee7b@37.27.200.55:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20FI%20%7C%20VLESS
+vless://c9bf8c1f-a0f3-420c-a438-aad38af66eb1@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#@failvpn_bot (до 19.07.2026)
+vless://820b5627-18a2-4f4a-95eb-1818edd4c923@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#@failvpn_bot (до 19.07.2026)
+vless://2d2e535f-52d0-4ab2-9986-24bf8247e8d2@185.255.95.247:443?type=ws&encryption=none&security=tls&host=185.255.95.247&path=/ws&sni=185.255.95.247&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20TR%20%7C%20VLESS (до 19.07.2026)

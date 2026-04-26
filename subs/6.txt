@@ -1,4 +1,3 @@
 # profile-title: VPN Start
 
 vless://VPNStart_82249@77.238.239.53:443?type=tcp&security=reality&fp=firefox&pbk=TuUf3BahCcUKbfVQuOSQ55ksYDIXsz0g0fJisIx59Bw&sni=vk.com&sid=ffffffffff&spx=%2F#VPNStart_82249-🇳🇱Нидерланды
-vless://VPNStart_42397@95.181.162.236:443?type=tcp&security=reality&fp=chrome&pbk=lZ3lBGZHFQySQFbBn2EDuwq-vDdLhmV4HcL6-d9b2jM&sni=whatsapp.com&sid=ffffffffff&spx=%2F#VPNStart_42397-🇳🇱Нидерланды (до 24.02.2028)

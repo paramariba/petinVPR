@@ -1,4 +1,6 @@
-# profile-title: lx-vpn
+# profile-title: TavridaVPN
 
-vless://8893a5a1-05ae-4e25-a228-74b7755a8529@144.31.30.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=dz9gTJMjKuONQbiqFPg7up3w8QfPd38BG1Zf4YmeT1k&sid=abcd1234&type=tcp#LX-VPN-NL
-vless://9a2f2d64-d89b-4032-b405-09c741f5ddde@193.58.122.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Iq3fqiS2KDAZOpdsdhCx1ILaltR9HTlnZZOJroNA1kg&sid=abcd1234&type=tcp#LX-VPN-DE
+vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@62.238.12.211:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Global
+vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@g2.tavridavpn.com:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=zIcJ0C-idz7JwTn764g50W8IGr8SOLCm1BaH_EBBTVE&sid=f1e2d3c4#🇫🇮 Global 2
+vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@ru.tavridavpn.com:8444?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lmqx7GTpInz3RcHuTSu1m2jsmOAWbuoPmrUlCjgdvXM&sid=#🇷🇺 Russia
+vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@83.222.24.115:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Global Stable

@@ -1,3 +1,17 @@
-# profile-title: takt VPN
+# profile-title: Slig VPN
 
-vless://b806bfc9-6d64-4117-adcd-ff78b7cf02a9@89.125.79.99:8443?type=xhttp&encryption=none&path=%2F&host=eh.vk.com&mode=auto&security=reality&pbk=jwjBikT2zwhXXqg4vbqnwxlT05ZjxVGK3Gx8F_sBu3M&fp=chrome&sni=eh.vk.com&sid=ea591b88ed95c7&spx=%2F#Takt%20VPN
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@144.31.235.108:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇸🇪 Швеция
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 Финляндия
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@meme.bestcats-video.online:443?security=reality&encryption=none&pbk=-u-p47L5mhflMs5y8hjB5p7Q978BE8JkC_ALyZzek2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=meme.bestcats-video.online#🇩🇪 Германия
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@dogs.bestcats-video.online:443?security=reality&encryption=none&pbk=wFBeBw6f4NvQgxu3yz4gdKijEDUsjB_TkFPuWvJBckM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dogs.bestcats-video.online#🇸🇪 Швеция
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@popular.bestcats-video.online:443?mode=packet-up&path=/trended&security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=popular.bestcats-video.online&fp=chrome&spx=/&type=xhttp&sni=popular.bestcats-video.online#🇳🇱 Нидерланды
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@121.127.37.173:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇷🇺 Россия
+vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇧🇪 Бельгия
+#
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@144.31.235.108:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇸🇪 Швеция
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 Финляндия
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@meme.bestcats-video.online:443?security=reality&encryption=none&pbk=-u-p47L5mhflMs5y8hjB5p7Q978BE8JkC_ALyZzek2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=meme.bestcats-video.online#🇩🇪 Германия
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@dogs.bestcats-video.online:443?security=reality&encryption=none&pbk=wFBeBw6f4NvQgxu3yz4gdKijEDUsjB_TkFPuWvJBckM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dogs.bestcats-video.online#🇸🇪 Швеция
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@popular.bestcats-video.online:443?mode=packet-up&path=/trended&security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=popular.bestcats-video.online&fp=chrome&spx=/&type=xhttp&sni=popular.bestcats-video.online#🇳🇱 Нидерланды
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@121.127.37.173:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇷🇺 Россия
+vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇧🇪 Бельгия

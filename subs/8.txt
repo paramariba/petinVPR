@@ -1,3 +1,3 @@
-# profile-title: Lum VPN
+# profile-title: Korvus VPN
 
-vless://6f125669-402d-41d1-ac96-ead1280b6203@148.222.187.190:443?type=tcp&encryption=none&security=reality&pbk=RmheDBU69qFGgKdT3PLZA3dd9Q68WJwYDO_ywKau1Rc&fp=random&sni=icloud.com&sid=76fe&spx=%2F&flow=xtls-rprx-vision#Lum%20VPN
+vless://KorvusVP_99914@185.218.19.163:8443?type=tcp&security=reality&fp=chrome&pbk=XZfTGVVsmf0bC1WAlTbQw3PkPVcBNo4g5aYC9Jmmz10&sni=apple.com&sid=ffffffffff&spx=%2F#KorvusVP_99914-🇩🇪Германия*

@@ -1,3 +1,3 @@
-# profile-title: How VPN
+# profile-title: VSE-VPN
 
-vless://howVPN_972067@91.84.108.224:443?type=tcp&security=reality&fp=random&pbk=YiIfqCcJlivuLlqKQL74dWoLQaQwiPg67GTDMYNTTGQ&sni=login.vk.com&flow=xtls-rprx-vision&sid=ffffffffff&spx=%2F#howVPN_972067-Нидерланды🇳🇱
+vless://505cac3f-5709-4a40-9dd5-6abb686d68f0@37.233.82.4:50773?type=tcp&security=reality&pbk=u7CbX_I9NWEaGDfIzJDoActQw2vNarn7dMUSvkZ2G0Q&fp=chrome&sni=yahoo.com&sid=08c569571bb8&spx=%2F&flow=xtls-rprx-vision#GDZ VPN

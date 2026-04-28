@@ -41,22 +41,6 @@ vless://cdba8012-7091-4d9b-a526-f34f3d7bbe72@sw.gsupport.support:443?security=re
 vless://cdba8012-7091-4d9b-a526-f34f3d7bbe72@ru.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇷🇺 Россия
 vless://cdba8012-7091-4d9b-a526-f34f3d7bbe72@tr.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇹🇷 Турция
 vless://cdba8012-7091-4d9b-a526-f34f3d7bbe72@sg.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇸🇬 Сингапур
-#
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@main2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇬🇧 Великобритания
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@nl2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇳🇱 Нидерланды
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@li2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇱🇹 Литва
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@uk.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇬🇧 Великобритания
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@de2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇩🇪  Германия
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@pln2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇵🇱 Польша
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@fl.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇫🇮 Финляндия
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@sp2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇪🇸  Испания
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@us.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇺🇸 США
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@ca.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇨🇦 Канада
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@ir.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇮🇪 Ирландия
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@sw.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇸🇪 Швеция
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@ru.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇷🇺 Россия
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@tr.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇹🇷 Турция
-vless://6b92e0d0-68aa-4ad0-8620-9e611a80d91f@sg.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇸🇬 Сингапур
 
 #tokervpnbot
 vless://2a461c64-f9fb-4ff9-88d8-5fa1792a7fa6@193.233.250.141:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#🇷🇺 Россия
@@ -180,13 +164,6 @@ vless://5773361f-0fdd-410e-bf18-a03ce5425c6b@213.171.26.10:4443?mode=multi&secur
 vless://5773361f-0fdd-410e-bf18-a03ce5425c6b@213.171.26.10:4443?mode=multi&security=reality&encryption=none&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=chrome&type=grpc&serviceName=grpc-cf&sni=www.microsoft.com&sid=abcdef0123456789#🇳🇱 Нидерланды
 vless://5773361f-0fdd-410e-bf18-a03ce5425c6b@213.171.26.10:5443?mode=auto&path=/xhttp-cf&security=reality&encryption=none&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=random&type=xhttp&sni=ads.x5.ru&sid=abcdef0123456789#🇳🇱 Нидерланды
 vless://5773361f-0fdd-410e-bf18-a03ce5425c6b@213.171.26.10:5443?mode=auto&path=/xhttp-cf&security=reality&encryption=none&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=chrome&type=xhttp&sni=www.microsoft.com&sid=abcdef0123456789#🇳🇱 Нидерланды
-
-#vleessvpnbot (рандом ключи)
-vless://05e67457-5ea4-4aa4-9fac-3d36d0ab6be9@ee1.mehab.me:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇪🇪 Эстония
-vless://992c077e-3b4f-47f2-ae4d-7ac3767d8939@us1.mehab.me:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇺🇸 США
-vless://5adbd5a2-a7c8-4650-8948-194849aa731c@de1.mehab.me:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия
-vless://0363f813-aa0b-4e97-b342-72ed9a3ffd13@nl1.mehab.me:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇳🇱 Нидерланды
-vless://5ed3990d-d059-4050-b265-8fd9d08ec509@tr1.mehab.me:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇹🇷 Турция
 
 #tlsov_vpn_bot
 vless://b49e48e6-30a7-43f6-a913-4cba0f485e7c@de.tlsov.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000#🇩🇪 Германия
@@ -560,10 +537,6 @@ vless://8fef58cc-8e08-47a4-bae6-d7df4c4e8f3d@tg-1.coinbridge.nl:443?encryption=n
 #
 vless://1cb474c7-05b9-4fe4-ab09-7938e1ba4416@sweden-1.mutabor-sec.ru:37623?encryption=none&security=reality&type=grpc&serviceName=data-sync&authority=mutabor-sec.ru&pbk=LpgwHE_Z8wx5z6prUsVVpSK7VBiJXojd7dE3Y1fXXxQ&sni=mutabor-sec.ru&sid=61280e4ba245&fp=random&spx=%2FtF5qwsxH7Bg1Y2i#🇸🇪 Швеция
 vless://1cb474c7-05b9-4fe4-ab09-7938e1ba4416@tg-1.coinbridge.nl:443?encryption=none&security=reality&type=grpc&serviceName=data-sync&authority=coinbridge.nl&pbk=3AJBVfJfhXDZUaWsP7WSMYhloWQ5V8kwWrftYiupuWg&sni=coinbridge.nl&sid=d14de9&fp=chrome&spx=/nqthoRw63B1Mjjz#🇸🇪 Швеция
-
-#DJ_VPNbot
-vless://18d7f241-c0e7-4414-a4af-28c3706ead60@m1.dj-chatbox.pro:443?type=tcp&security=reality&pbk=T22_yg1Y9FIGD9Pmx8M0GTUrynnl_h_FAJzTa20XfVo&fp=chrome&sni=www.apple.m1.dj-chatbox.pro&sid=d5b80524768ad704&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
-vless://18d7f241-c0e7-4414-a4af-28c3706ead60@m1.dj-chatbox.pro:8443?type=grpc&encryption=none&serviceName=chatservice&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=m1.dj-chatbox.pro#🇩🇪 Германия
 
 #chopper_vpn_bot
 vless://0f816f25-1017-4aa2-b8f7-97115c3f7dec@pl.choppervpn.com:443?security=reality&encryption=none&pbk=sjXGaIKayOS1NbOsFKxddiWq5yTRZbK0r8Df0465jWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com#🇵🇱 Польша
@@ -1188,3 +1161,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMmg3ODQ0MXVYc0tESkZFSm9oNkR1NFN0UjczaGJGXw=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMmg3ODQ0MXVYc0tESkZFSm9oNkR1NFN0UjczaGJGXw==@ge.suslikvpn.ru:1080?type=tcp#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMmg3ODQ0MXVYc0tESkZFSm9oNkR1NFN0UjczaGJGXw==@fi.suslikvpn.ru:1080?type=tcp#🇫🇮 Финляндия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMmg3ODQ0MXVYc0tESkZFSm9oNkR1NFN0UjczaGJGXw==@swe.suslikvpn.ru:1080?type=tcp#🇸🇪 Швеция
+
+#gryaz_vpn_bot (рандом ключи)
+vless://d161d3db-a7b5-4a34-be7d-d7cbecede964@fr.gryaz-vpn.com:20567?type=tcp&security=reality&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&fp=random&sni=cloudflare.com&sid=b82d7208fe23&spx=%2F&flow=xtls-rprx-vision-udp443#🇫🇷 Франция
+vless://fa9a4475-ca01-491b-9272-6d66f67f1acc@fi.gryaz-vpn.com:34572?type=tcp&security=reality&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&fp=random&sni=cloudflare.com&sid=88acba&spx=%2F&flow=xtls-rprx-vision-udp443#🇫🇮 Финляндия
+vless://28c5b980-38f1-4838-a6a0-24dc923fbdc5@nl.gryaz-vpn.com:35750?type=tcp&security=reality&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&fp=random&sni=cloudflare.com&sid=01f43c37b8&spx=%2F&flow=xtls-rprx-vision-udp443#🇳🇱 Нидерланды
+vless://c3be9100-3df5-457c-9d35-6a96254bee2c@us.gryaz-vpn.com:19131?type=tcp&security=reality&pbk=yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo&fp=random&sni=cloudflare.com&sid=0a8a84dcb5&spx=%2F&flow=xtls-rprx-vision-udp443#🇺🇸 США
+
+#critvpn_bot
+vless://b6b34319-fad7-40a3-b571-60fd7789b032@46.17.102.90:16149?encryption=none&fp=chrome&host=&mode=auto&path=%2F&pbk=mbUxp-YvEVHgi0MI_yorSCLotdKkP-MIqFvFtYcmXAs&pqv=Qh7Y91wpHgf5FgtfPWCS9NbG0uuL4Jbfx_59lJNeN2Rw-qG2E8Qs-Ddid5EsLEnGNoAtF-1K_TBSKwDr8Z1vkbVn0FwPlZmzJmD2frPPp0M5m4Bgef6YKIhfH6a4_wwoAyP6OXZjO4I8IWFitsuzkBt-NSFkOfqpXWaN1UotVmB-z2QC4Ua_sf9GI0OBh2uMurbM3SGeUobQ87_SoHTF8Bon0e6CibGMBmQcNaH-FLTNPYSsFUHTVjgN_oGbYpKqJb2VhUNRNSe7WQCl8PZRUCUC2uSDFaYTJfthmDtUf3fPraSvgJoByEQPOF4UmcZtTaYhT4ihAMxiNbKjR4XF7e6B0OtuAXncbfJ26ry0fi7eRxQNctzrKuIREtn3yYitiUJKg2oBLVSZ7Tx_EgHwegcW-y2FxOlXPAdw5eqNG9hblDf33GVkItmkEqBNxqOYhiaacYh09NWV3cAvj_j0z6aOIbtG6sletpBAa9PnYdeJ8KYII3G916LFo4kzyupZFcO-EJCHFPnJjyOu9ikgg7jixXZ5xBSCuOWsxNK-irybRkCmnkBsPsNmefXWMjIsDV1NajlMo9peJxs0b9USdkUQ-RJyGh3-HJuEMi4teKdxkpESNtB_1nAKVMR8KE3X1_z8lhlI0eBdOZ-ORruiYqKcK5rfwHqZANRJELkmhjGVXZnuZ8_nBScoWYNd1njk_3mVqVvy7hAIsmMqlX-MJqmJF-a6d5x9umxLRBPDPsrg3lTekuZa7RJP1fQ8P4RcLxlKa1NP7UxgaL14qTa6blwPKGmTwTjBCVPvi9lpXnpijnDvTN1S2sSDBAl73xkOBEEVXQH1TTq_UvoEh6gpms6BeVKeoHFnpRW_9H3QPTgMb3uGLFREahdxkMknPaZ7q-Olj4m37Hk6ECxvaVth53ifKMAGL_yEDSF_qJucKJ4abwmtPkmhQdLBxf9KzaRODdkMUi8QaHehKeVURSMyscdU98myK1UPyTbPvuETzksdM9ik1zI_mL-TcNB3v6pn9rBLZQfNAAuBvQtEcZeoLdd8rPO8RCFN-XeIZkDAw5jA58-1-WwzwHhHP5ii1cid2OJ3G2gAARbd7AeYIFcf5z-_5JsDk0OF87Bss4enXFktI-FS0f9I24dmG8zeUdfyzjVVQErKpvnUuUuZ9vhboGKRfziYWyR6uc6VI_kPFAxlYcWOBWi5174b9o-cNO9F7OsT7Mnpp0FWMcVngYSsg-mkbvoIaU8hymPUp5KY04hUAsE8fXx1A50CXralqBBJySxgF2oJvz1xU4x9H6yMm0v6mZjXZ0zgLr7ePLMMadD_yTgA0pWsExanlGZ5Dw1w-Ga9qPxoh7kMFDECI_XcxDTmVY_ZEUux6n3L7zP7vUsxK7oRSVDoFIfUucv5QXfvDGVp6yGjkf-v9Qgjq0KUuGIP_lWGn__ykt6GVR6YyLEuoLPrvj8wRD1wsECiqEMxSDqxb_xFuLwfG_LBtm-8sy0HeGHCLg8XFhlyqhpQ7R0ssIvlDTkehrEtbrjlJb3t_O68SidoEZgdFf_1AZNRxeOh3lMZsTmIs3kpgRxiqxeO7F5Mss9vqA8x_1lEJsYLejNdniHGAIIf4EI-3esxg76zNlLfQezsra_OcyYWLE8pLxUJ7_RKIOvJ1idjj0kLtjBfPWSdAMf2bQkGfX9mMMuHWzfUIoLQtNRF4HtUh_Imks6bKP2zgXa1EzfgFMD_HAVCwJdlzLPKou5Jkg9gnUTqcfYSE7ZJzbvHtbE9enCjPSgjJmlEFZTAOYNZrx9s2uXfBQEyMX7CDmGi41FkljmMH7mDMSsw6uiNTFh9HxWceZiI0Tro9hiB1zMkzysSxoarR9QqLBClmVS03vaFxx3G4B8pzruKpWO3NBRlPOxKxCr88tLqxaxcxX1YKSwEXP7JRvXzAIbQc-FPEYRoDuLe1w_MKdPHyhQQO7ogFHeSi3gNDuoTh2E2sIIjooC4iiIHM-wOy3i5FivaonkwWl8bV09aVPtBZpmZtmvHohlmcx8an5oefVGnJJdJkjZ_0d-q2Vr9O4vYmPPw30FArXwi2y4wO3ohkOX_LvjWrPP5V17b6JK8oKRnt80FMilqtkMVN5TPn-j3YSSvLRc_Z7y1gBJW7ZQ0h5K1xV0snHvgEIQ2LKvhVzaVRNS3N15uPhAcCGyX3TllbGtM7XxILtB_KkxibaQt91A2vgKeVF0JHfOXPfavmRfus7hDJRH03caybfGEmtD6B_H_0JXw69PpOGin7bGkiJvhwauwmmMKA4xDxLl9nWcvUUfMhLy56eKAZyXGyJ7t8EdLfp8eFYVT9J8EFOyeXIUAdoJFp2cbWqow9R8HUDoAOxC02bmTg-_e-DefwTXhmHyCx6LiYfpDdJkmHYHIItuM7OXIXZRiFYH8wZO-OpBEf2jJ6ZWOGdnIh8SE7xeyTu--IwIFD5eVGrPYbSpqaQgsHN9kmmolusKRYPNfCz8k_G0OHsQ4YpmqEH3DWEXY4RO-c3fCNx6h4Z1OBXRGObKy-9_Q7ysjVG5Rj_qffx0UctHPUCjTySUiGwgtGEb4y_gndJut_TclIc9c5TkfLapEw9oUpPQ&security=reality&sid=693bfe03748ad0&sni=google.com&spx=%2FoXwTPnToiScqI3E&type=xhttp#🇳🇱 Нидерланды
+
+#KorvusVPN_bot (рандом ключ)
+vless://KorvusVP_99914@185.218.19.163:8443?type=tcp&security=reality&fp=chrome&pbk=XZfTGVVsmf0bC1WAlTbQw3PkPVcBNo4g5aYC9Jmmz10&sni=apple.com&sid=ffffffffff&spx=%2F#🇩🇪 Германия
+
+#gdz_vpn_bot
+vless://505cac3f-5709-4a40-9dd5-6abb686d68f0@37.233.82.4:50773?type=tcp&security=reality&pbk=u7CbX_I9NWEaGDfIzJDoActQw2vNarn7dMUSvkZ2G0Q&fp=chrome&sni=yahoo.com&sid=08c569571bb8&spx=%2F&flow=xtls-rprx-vision#🇱🇻 Латвия

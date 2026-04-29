@@ -1,22 +1,8 @@
-# profile-title: PetinVPR New
+# profile-title: PetinVPR
 # profile-update-interval: 12
 
 
-#Tavridavpn_bot (банят, сохранять ключи)
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@62.238.12.211:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Финляндия
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@g2.tavridavpn.com:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=zIcJ0C-idz7JwTn764g50W8IGr8SOLCm1BaH_EBBTVE&sid=f1e2d3c4#🇫🇮 Финляндия
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@ru.tavridavpn.com:8444?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lmqx7GTpInz3RcHuTSu1m2jsmOAWbuoPmrUlCjgdvXM&sid=#🇷🇺 Россия
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@83.222.24.115:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Финляндия
-
 #SligVPN_bot (банят, сохранять ключи, остается 1 гб)
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@144.31.235.108:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇸🇪 Швеция
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 Финляндия
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@meme.bestcats-video.online:443?security=reality&encryption=none&pbk=-u-p47L5mhflMs5y8hjB5p7Q978BE8JkC_ALyZzek2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=meme.bestcats-video.online#🇩🇪 Германия
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@dogs.bestcats-video.online:443?security=reality&encryption=none&pbk=wFBeBw6f4NvQgxu3yz4gdKijEDUsjB_TkFPuWvJBckM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dogs.bestcats-video.online#🇸🇪 Швеция
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@popular.bestcats-video.online:443?mode=packet-up&path=/trended&security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=popular.bestcats-video.online&fp=chrome&spx=/&type=xhttp&sni=popular.bestcats-video.online#🇳🇱 Нидерланды
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@121.127.37.173:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇷🇺 Россия
-vless://bdf8e890-4af0-455e-92f5-7cda79d286ca@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇧🇪 Бельгия
-#
 vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@144.31.235.108:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇸🇪 Швеция
 vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@31.13.208.118:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 Финляндия
 vless://4aca1566-62d3-4e8c-a925-ecf7e68d84c7@meme.bestcats-video.online:443?security=reality&encryption=none&pbk=-u-p47L5mhflMs5y8hjB5p7Q978BE8JkC_ALyZzek2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=meme.bestcats-video.online#🇩🇪 Германия
@@ -1176,3 +1162,21 @@ vless://KorvusVP_99914@185.218.19.163:8443?type=tcp&security=reality&fp=chrome&p
 
 #gdz_vpn_bot
 vless://505cac3f-5709-4a40-9dd5-6abb686d68f0@37.233.82.4:50773?type=tcp&security=reality&pbk=u7CbX_I9NWEaGDfIzJDoActQw2vNarn7dMUSvkZ2G0Q&fp=chrome&sni=yahoo.com&sid=08c569571bb8&spx=%2F&flow=xtls-rprx-vision#🇱🇻 Латвия
+
+#krot_vpn_bot (рандом ключ)
+vless://73125999-ebe8-4263-88b0-b6ffff4fe4cf@akuratov.cloudproud.site:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=apple.com&fp=chrome&pbk=bfHXZOS3MJCf3eJ1iIBH7mykxr0aT3arjCiCLzRPKkY&sid=ea37e5fbd62a375f&spx=/blog#🇵🇱 Польша
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZS1MQ1hzV05IVnFLMUg1R0M3UWtR@akuratov.cloudproud.site:1080#🇵🇱 Польша
+
+@poletvpnbot
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@fl.locklance.lol:443?security=reality&encryption=none&pbk=_ftr7AiRUt0qvp9EiM4k83zzApIm430inagF_R2--CE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl.locklance.lol&sid=ba509288798a2754#🇫🇮 Финляндия
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@de.locklance.lol:443?security=reality&encryption=none&pbk=0k2aDh6JSsLCZsO7QUYepYnS_kHAnfmXX18WQBkgxEc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.locklance.lol&sid=b8b471990f4f6795#🇩🇪 Германия
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@nl.locklance.lol:443?security=reality&encryption=none&pbk=Ao1vwufHVONJaSsjxr_UHu9KKZ8pj06tPt7eRgUmYWs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nl.locklance.lol&sid=7788cd2d3e86673c#🇳🇱 Нидерланды
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@us.locklance.lol:443?security=reality&encryption=none&pbk=nTu37Hhv11xTUWqNqt7C8w2DKcwAxrHEztyroIE16U8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.locklance.lol&sid=1cc18c57d4bd9a38#🇺🇸 США
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@hu.locklance.lol:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.locklance.lol&sid=9b0411564c8ab739#🇭🇺 Венгрия
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@sgp.locklance.lol:443?security=reality&encryption=none&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sgp.locklance.lol&sid=1d2be6290aea471f#🇸🇬 Сингапур
+vless://c1aef294-e198-42b8-8560-44c1af3e40aa@ru.locklance.lol:443?security=reality&encryption=none&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru.locklance.lol&sid=4fccf1f98f04c7bb#🇷🇺 Россия
+
+@Sub_net_bot (рандом ключ)
+vless://776c5b87-d278-4570-a023-0ccbbb5e1f8f@80.66.72.184:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=0DC32Uzv8uHyrG6QPwM61wIJlYZf2DlVWBlZcZaXr28&sid=af05d1ae&flow=xtls-rprx-vision#VLESSNET · 🇩🇪 Германия
+vless://b8fdf033-831e-4a3f-a3b9-e3a336589a0e@144.124.230.148:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=fZZhb6-e2coFoGB0eJ8rRHxP5ULRH8Edm43QzPEZsy4&sid=db19a168&flow=xtls-rprx-vision#VLESSNET · 🇳🇱 Нидерланды
+vless://2951ede0-17da-4961-9147-e5b70d67e2c7@45.95.233.63:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=8m5FPyn9JQJ5UQoBCs-X6cLwQ_eXXKCoM7n_3SmdQys&sid=536148a8&flow=xtls-rprx-vision#VLESSNET · 🇫🇷 Франция

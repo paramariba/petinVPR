@@ -1177,6 +1177,6 @@ vless://c1aef294-e198-42b8-8560-44c1af3e40aa@sgp.locklance.lol:443?security=real
 vless://c1aef294-e198-42b8-8560-44c1af3e40aa@ru.locklance.lol:443?security=reality&encryption=none&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru.locklance.lol&sid=4fccf1f98f04c7bb#🇷🇺 Россия
 
 @Sub_net_bot (рандом ключ)
-vless://776c5b87-d278-4570-a023-0ccbbb5e1f8f@80.66.72.184:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=0DC32Uzv8uHyrG6QPwM61wIJlYZf2DlVWBlZcZaXr28&sid=af05d1ae&flow=xtls-rprx-vision#VLESSNET · 🇩🇪 Германия
-vless://b8fdf033-831e-4a3f-a3b9-e3a336589a0e@144.124.230.148:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=fZZhb6-e2coFoGB0eJ8rRHxP5ULRH8Edm43QzPEZsy4&sid=db19a168&flow=xtls-rprx-vision#VLESSNET · 🇳🇱 Нидерланды
-vless://2951ede0-17da-4961-9147-e5b70d67e2c7@45.95.233.63:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=8m5FPyn9JQJ5UQoBCs-X6cLwQ_eXXKCoM7n_3SmdQys&sid=536148a8&flow=xtls-rprx-vision#VLESSNET · 🇫🇷 Франция
+vless://776c5b87-d278-4570-a023-0ccbbb5e1f8f@80.66.72.184:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=0DC32Uzv8uHyrG6QPwM61wIJlYZf2DlVWBlZcZaXr28&sid=af05d1ae&flow=xtls-rprx-vision#🇩🇪 Германия
+vless://b8fdf033-831e-4a3f-a3b9-e3a336589a0e@144.124.230.148:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=fZZhb6-e2coFoGB0eJ8rRHxP5ULRH8Edm43QzPEZsy4&sid=db19a168&flow=xtls-rprx-vision#🇳🇱 Нидерланды
+vless://2951ede0-17da-4961-9147-e5b70d67e2c7@45.95.233.63:8443?type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&fp=chrome&pbk=8m5FPyn9JQJ5UQoBCs-X6cLwQ_eXXKCoM7n_3SmdQys&sid=536148a8&flow=xtls-rprx-vision#🇫🇷 Франция

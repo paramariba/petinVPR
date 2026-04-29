@@ -1,9 +1,0 @@
-vless://a2c4c9ea-4d71-48b0-9c09-597b610cb43c@5.35.38.207:443/?encryption=none&type=tcp&sni=m.vk.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=5uUv1A67jOZCiNImOxuyS23wAe7vhEsGge4hfL4RlGc&packetEncoding=xudp#@drums_vpn_bot
-vless://cc7e2c8d-85af-4624-a4c6-3cfe001dce59@77.238.249.72:443/?encryption=none&type=grpc&serviceName=api&sni=sun4-12.userapi.com&fp=chrome&security=reality&alpn=h2&pbk=gXB3C5nDo5FpCjux4nlijOX2h1ejJ7cziUmzawCbM1o&packetEncoding=xudp&sid=ed664829118a6a8f#@drums_vpn_bot
-vless://d24738e7-edd7-4c3a-9cf4-818746038488@103.35.188.124:443/?encryption=none&type=tcp&sni=steamcommunity.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=ohQ4PCNrFpm94ejq3qAasHFQ1AKpqisXzUKr31slpy4&packetEncoding=xudp#@drums_vpn_bot
-vless://5286f6cf-1411-425a-a1ef-925de6de7d1a@212.34.149.89:443/?encryption=none&type=tcp&sni=rutube.ru&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=Drf8Vza3AgOWKHcnnx9yjOauo6ESSDHmQ_BRoiPn1xE&packetEncoding=xudp#@drums_vpn_bot
-vless://VPNStart_42397@95.181.162.236:443?type=tcp&security=reality&fp=chrome&pbk=lZ3lBGZHFQySQFbBn2EDuwq-vDdLhmV4HcL6-d9b2jM&sni=whatsapp.com&sid=ffffffffff&spx=%2F#@vpnstartbot
-vless://e8bb1a9d-82a5-4f6c-949c-23076685b7a7@193.233.216.179:443?type=xhttp&security=reality&encryption=none&sni=max.ru&fp=&pbk=ZEttsR7FH6A_EER1pRRDYWRY1bfUwPORJgRBwldbenE&sid=3db1ac8bf76a4836&spx=%2F#@get_open_vpn_bot
-vless://58dea6d5-980d-4eb8-ae33-240fb97aeb8e@fl-1-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-1-direct.djarbnet.ru&security=tls#@DJARBVPNBOT
-vless://c9bf8c1f-a0f3-420c-a438-aad38af66eb1@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#@failvpn_bot
-vless://820b5627-18a2-4f4a-95eb-1818edd4c923@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#@failvpn_bot

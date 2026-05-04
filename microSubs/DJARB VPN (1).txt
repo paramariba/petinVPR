@@ -1,0 +1,3 @@
+# profile-title: DJARB VPN (1 акк)
+
+vless://8e4cf8a8-9b70-45d3-85e7-c80462466d39@fl-5-direct.djarbnet.ru:443?type=ws&path=/getupdates&host=fl-5-direct.djarbnet.ru&security=tls#🇫🇮 Основной

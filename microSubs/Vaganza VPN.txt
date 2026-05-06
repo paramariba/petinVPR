@@ -1,0 +1,3 @@
+# profile-title: Vaganza VPN
+
+vless://36be307c-62b9-4d05-831b-1148d0769056@vaganzavpn.top:7777?type=tcp&security=reality&pbk=zyCeA5q5uJryLJ9iKqTYhouC6mhkXhVIbfULo8bKF2k&fp=chrome&sni=ozon.ru&sid=c7dadbd8&spx=%2F&flow=xtls-rprx-vision#VaganzaVpn запасной

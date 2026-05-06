@@ -1,0 +1,4 @@
+# profile-title: Fail VPN (2 акк)
+
+vless://b2697829-39c9-41d5-84dd-16548e87ee7b@37.27.200.55:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#@failvpn_bot | FI | VLESS
+vless://1dec3ade-d1bf-473f-a270-53d7d2753250@107.189.7.176:443?type=ws&encryption=none&security=tls&host=107.189.7.176&path=/ws&sni=107.189.7.176&alpn=h2,http/1.1&fp=chrome#@failvpn_bot | CH | VLESS

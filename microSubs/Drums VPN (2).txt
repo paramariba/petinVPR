@@ -1,0 +1,6 @@
+# profile-title: DJARB VPN (2 акк)
+
+vless://cc2a70dd-c3f0-4a57-bdfd-0eb98523d393@77.238.249.72:443/?encryption=none&type=grpc&serviceName=api&sni=sun4-12.userapi.com&fp=chrome&security=reality&alpn=h2&pbk=gXB3C5nDo5FpCjux4nlijOX2h1ejJ7cziUmzawCbM1o&packetEncoding=xudp&sid=ed664829118a6a8f#drums_vpn/NL1
+vless://ae088c6d-6dda-40bb-8a47-3359d9cd5321@5.35.38.207:443/?encryption=none&type=tcp&sni=m.vk.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=5uUv1A67jOZCiNImOxuyS23wAe7vhEsGge4hfL4RlGc&packetEncoding=xudp#drums_vpn/NL2
+vless://5d6092ac-6e25-4d25-b402-37afea849d66@212.34.149.89:443/?encryption=none&type=tcp&sni=rutube.ru&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=Drf8Vza3AgOWKHcnnx9yjOauo6ESSDHmQ_BRoiPn1xE&packetEncoding=xudp#drums_vpn/NL3
+vless://c66d2971-8de5-4739-b873-33d49055526d@103.35.188.124:443/?encryption=none&type=tcp&sni=steamcommunity.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=ohQ4PCNrFpm94ejq3qAasHFQ1AKpqisXzUKr31slpy4&packetEncoding=xudp#drums_vpn/USA

@@ -1,3 +1,3 @@
 # profile-title: Korvus VPN
 
-vless://KorvusVP_99914@185.218.19.163:8443?type=tcp&security=reality&fp=chrome&pbk=XZfTGVVsmf0bC1WAlTbQw3PkPVcBNo4g5aYC9Jmmz10&sni=apple.com&sid=ffffffffff&spx=%2F#🇩🇪 Германия
+vless://KorvusVP_37817@89.191.226.21:443?type=tcp&security=reality&fp=random&pbk=_h5Im6PMsrBO3-d8gs0Ci7qFqDhfoI-mg1G_8VDzQFw&sni=login.vk.com&sid=ffffffffff&spx=%2F#🇩🇪 Германия

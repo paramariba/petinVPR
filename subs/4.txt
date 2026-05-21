@@ -1,6 +1,0 @@
-# profile-title: TavridaVPN
-
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@62.238.12.211:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Global
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@g2.tavridavpn.com:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=zIcJ0C-idz7JwTn764g50W8IGr8SOLCm1BaH_EBBTVE&sid=f1e2d3c4#🇫🇮 Global 2
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@ru.tavridavpn.com:8444?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lmqx7GTpInz3RcHuTSu1m2jsmOAWbuoPmrUlCjgdvXM&sid=#🇷🇺 Russia
-vless://3a1cbc27-10fd-47da-a6c0-69106fc192e7@83.222.24.115:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=qq&pbk=lNqNeQjkZBkJNBYd2WTXZQ4e4heEATKQezkVGMNcyFw&sid=a1b2c3d4#🇫🇮 Global Stable

@@ -1,3 +1,0 @@
-# profile-title: Fail VPN (1 акк)
-
-vless://c9bf8c1f-a0f3-420c-a438-aad38af66eb1@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=/ws&sni=45.39.241.51&alpn=h2,http/1.1&fp=chrome#@failvpn_bot | BG | VLESS

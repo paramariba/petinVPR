@@ -1,3 +1,0 @@
-# profile-title: DJARB VPN (1 акк)
-
-vless://25d62ef6-e32f-4f81-869c-5c48627a9abd@pl-1-direct.memeplanet.org:443?type=tcp&security=reality&pbk=71Ir8JPcGTVklyzs9oipiss22cr-2UfJwWHxMEa75XA&fp=chrome&sni=yahoo.com&sid=41af&spx=/&flow=xtls-rprx-vision#🇵🇱 Основной

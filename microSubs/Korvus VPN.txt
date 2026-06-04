@@ -1,3 +1,0 @@
-# profile-title: Korvus VPN
-
-vless://KorvusVP_37817@89.191.226.21:443?type=tcp&security=reality&fp=random&pbk=_h5Im6PMsrBO3-d8gs0Ci7qFqDhfoI-mg1G_8VDzQFw&sni=login.vk.com&sid=ffffffffff&spx=%2F#🇩🇪 Германия

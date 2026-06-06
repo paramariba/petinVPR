@@ -1,4 +1,4 @@
-# profile-title: PetinVPR [Base]
+# profile-title: PetinVPR [Lite]
 # profile-update-interval: 12
 # Date/Time: 2026-06-07 / 2:00 (Moscow)
 # announce: НЕ ПОДКЛЮЧАЙТЕСЬ К ПЕРВЫМ ПОПАВШИМСЯ СЕРВЕРАМ, ПОДОЖДИТЕ НЕМНОГО И ТОГДА ПОДКЛЮЧАЙТЕСЬ К СЕРВЕРУ С ЛУЧШИМ ПИНГОМ ;3

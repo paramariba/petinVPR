@@ -1,4 +1,4 @@
-# profile-title: PetinVPR [YouTube]
+# profile-title: PetinVPR [Ютуб]
 # profile-update-interval: 24
 # Date/Time: 2026-07-06 / 02:00 (Moscow)
 

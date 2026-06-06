@@ -1,6 +1,0 @@
-# profile-title: Drums VPN (1 акк)
-
-vless://529e78d9-9b6e-4239-bc6e-ba65b79b8900@77.238.249.72:443/?encryption=none&type=grpc&serviceName=api&sni=sun4-12.userapi.com&fp=chrome&security=reality&alpn=h2&pbk=gXB3C5nDo5FpCjux4nlijOX2h1ejJ7cziUmzawCbM1o&packetEncoding=xudp&sid=ed664829118a6a8f#drums_vpn/NL1
-vless://eb53a72b-8ae1-4d38-812c-3734e4a8b70f@5.35.38.207:443/?encryption=none&type=tcp&sni=m.vk.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=5uUv1A67jOZCiNImOxuyS23wAe7vhEsGge4hfL4RlGc&packetEncoding=xudp#drums_vpn/NL2
-vless://3821c81b-c0f1-4fbd-b6ee-f75188a55f7a@212.34.149.89:443/?encryption=none&type=tcp&sni=rutube.ru&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=Drf8Vza3AgOWKHcnnx9yjOauo6ESSDHmQ_BRoiPn1xE&packetEncoding=xudp#drums_vpn/NL3
-vless://ee1e5da9-f866-4be4-b0d8-4bc86124e01a@103.35.188.124:443/?encryption=none&type=tcp&sni=steamcommunity.com&fp=chrome&security=reality&alpn=h2&flow=xtls-rprx-vision&pbk=ohQ4PCNrFpm94ejq3qAasHFQ1AKpqisXzUKr31slpy4&packetEncoding=xudp#drums_vpn/USA

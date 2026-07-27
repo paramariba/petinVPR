@@ -1,0 +1,3 @@
+# profile-title: Получение HWID
+
+vless://00000000-0000-0000-0000-000000000000@1.1.1.1:1?encryption=none&fp=chrome&host=&mode=auto&path=%2F&pbk=none&sni=google.com&spx=%2F55A02zug3U2IMmJ&type=xhttp# HWID получен, можете удалять подписку

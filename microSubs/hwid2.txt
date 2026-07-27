@@ -2,4 +2,4 @@
 # announce: Вашего HWID нет в базе данных, напишите в телеграм @tetrahyydrocannabinol (или нажмите на значек телеграма в левом улгу подписки)
 # support-url: https://t.me/tetrahyydrocannabinol
 
-vless://petinVPR_0@1.1.1.1:1?type=tcp&security=reality&fp=random&pbk=none&sni=petinvpr.ru&sid=none&spx=/# Вашего HWID нет в базе данных, напишите в телеграм @tetrahyydrocannabinol
+vless://petinVPR_0@1.1.1.1:1?type=tcp&security=reality&fp=random&pbk=none&sni=petinvpr.ru&sid=none&spx=/# Вашего HWID нет в базе

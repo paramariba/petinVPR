@@ -1,3 +1,0 @@
-# profile-title: Korvus VPN (3 акк)
-
-vless://KorvusVP_37724@146.103.104.173:8443?type=tcp&security=reality&fp=random&pbk=AD19IGrdi3AUoap306kZfmJ4NoBAk9fC1VkykAxxN2A&sni=sun6-21.userapi.com&sid=ffffffffff&spx=%2F#KorvusVP_37724-🇳🇱Нидерланды*
